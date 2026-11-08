@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.popbot.alfred-ncaaf-scores</string>
+	<key>connections</key>
+	<dict>
+		<key>A1C0008B-93B9-42C3-B1D6-F7C8EA595001</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C3B67A54-A596-4373-BE41-210D659C8003</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>B2D0008B-93B9-42C3-B1D6-F7C8EA595002</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C3B67A54-A596-4373-BE41-210D659C8003</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>PopBot</string>
+	<key>description</key>
+	<string>NCAA FBS College Football scores, polls/rankings, conference standings, team stats, and 12-game schedules.</string>
+	<key>name</key>
+	<string>NCAAF Scores</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>cfb</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>🏈 Loading FBS Football…</string>
+				<key>script</key>
+				<string>python3 cfb.py "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Scores · cfbr rankings · cfbs standings · cfbt team &amp; schedule</string>
+				<key>title</key>
+				<string>College Football (FBS)</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>A1C0008B-93B9-42C3-B1D6-F7C8EA595001</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>ncaaf</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>🏈 Loading NCAA FBS Football…</string>
+				<key>script</key>
+				<string>python3 cfb.py "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Scores · ncaafr rankings · ncaafs standings · ncaaft team &amp; schedule</string>
+				<key>title</key>
+				<string>NCAAF Scores (FBS)</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B2D0008B-93B9-42C3-B1D6-F7C8EA595002</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>C3B67A54-A596-4373-BE41-210D659C8003</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>## 🏈 NCAAF Scores (FBS) — Alfred Workflow
+
+### Triggers (`cfb` or `ncaaf`)
+| Type this | What you get |
+|-----------|-------------|
+| `cfb` or `ncaaf` | Current week's FBS scores (Live → Upcoming → Final, Top 25 prioritized) |
+| `cfb {filter}` | Filter scoreboard: `cfb top25`, `cfb sec`, `cfb texas`, `cfb live`, `cfb close` |
+| `cfbr` / `ncaafr` | National Top 25 Rankings (CFP Default when available, AP Top 25 fallback) |
+| `cfbr {poll}` | Switch poll: `cfbr cfp`, `cfbr ap`, `cfbr coaches` |
+| `cfbs` / `ncaafs` | FBS Conference Standings (Power 4 first: SEC, Big Ten, Big 12, ACC, etc.) |
+| `cfbs {conf}` | Filter standings: `cfbs sec`, `cfbs b10`, `cfbs b12`, `cfbs acc`, `cfbs sbc`, etc. |
+| `cfbt {team}` / `cfbc {team}` | Team Record (`⌘` Offense, `⌥` Defense) + Full 12-Game Season Schedule inline |
+
+### Modifier Keys
+- **Scores (`cfb` / `ncaaf`)**:
+  - `⌘`: Preview Last Play, Drive Summary &amp; Live Win Probability (Enter opens Box Score)
+  - `⌥`: Preview Passing / Rushing / Receiving Game Leaders (Enter opens Play-by-Play)
+- **Team &amp; Schedule (`cfbt` / `cfbc`)**:
+  - Row 1 (`⌘` Offense stats, `⌥` Defense stats)
+  - Rows 2–13: Full 12-game season schedule with W/L results, live scores, and upcoming kickoffs/TV networks
+</string>
+	<key>uidata</key>
+	<dict>
+		<key>A1C0008B-93B9-42C3-B1D6-F7C8EA595001</key>
+		<dict>
+			<key>xpos</key>
+			<real>140.0</real>
+			<key>ypos</key>
+			<real>50.0</real>
+		</dict>
+		<key>B2D0008B-93B9-42C3-B1D6-F7C8EA595002</key>
+		<dict>
+			<key>xpos</key>
+			<real>140.0</real>
+			<key>ypos</key>
+			<real>190.0</real>
+		</dict>
+		<key>C3B67A54-A596-4373-BE41-210D659C8003</key>
+		<dict>
+			<key>xpos</key>
+			<real>490.0</real>
+			<key>ypos</key>
+			<real>120.0</real>
+		</dict>
+	</dict>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/PopBot/alfred-ncaaf-scores</string>
+</dict>
+</plist>

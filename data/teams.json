@@ -1,0 +1,2775 @@
+[
+  {
+    "id": "2005",
+    "name": "Air Force Falcons",
+    "location": "Air Force",
+    "nickname": "Falcons",
+    "short_name": "Air Force",
+    "abbreviation": "AFA",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2005.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2005"
+  },
+  {
+    "id": "2006",
+    "name": "Akron Zips",
+    "location": "Akron",
+    "nickname": "Zips",
+    "short_name": "Akron",
+    "abbreviation": "AKR",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2006.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2006"
+  },
+  {
+    "id": "333",
+    "name": "Alabama Crimson Tide",
+    "location": "Alabama",
+    "nickname": "Crimson Tide",
+    "short_name": "Alabama",
+    "abbreviation": "ALA",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "333.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "url": "https://www.espn.com/college-football/team/_/id/333"
+  },
+  {
+    "id": "2026",
+    "name": "App State Mountaineers",
+    "location": "App State",
+    "nickname": "Mountaineers",
+    "short_name": "App State",
+    "abbreviation": "APP",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "2026.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2026"
+  },
+  {
+    "id": "9",
+    "name": "Arizona State Sun Devils",
+    "location": "Arizona State",
+    "nickname": "Sun Devils",
+    "short_name": "Arizona St",
+    "abbreviation": "ASU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "9.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "url": "https://www.espn.com/college-football/team/_/id/9"
+  },
+  {
+    "id": "12",
+    "name": "Arizona Wildcats",
+    "location": "Arizona",
+    "nickname": "Wildcats",
+    "short_name": "Arizona",
+    "abbreviation": "ARIZ",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "12.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "url": "https://www.espn.com/college-football/team/_/id/12"
+  },
+  {
+    "id": "8",
+    "name": "Arkansas Razorbacks",
+    "location": "Arkansas",
+    "nickname": "Razorbacks",
+    "short_name": "Arkansas",
+    "abbreviation": "ARK",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "8.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+    "url": "https://www.espn.com/college-football/team/_/id/8"
+  },
+  {
+    "id": "2032",
+    "name": "Arkansas State Red Wolves",
+    "location": "Arkansas State",
+    "nickname": "Red Wolves",
+    "short_name": "Arkansas St",
+    "abbreviation": "ARST",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "2032.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2032"
+  },
+  {
+    "id": "349",
+    "name": "Army Black Knights",
+    "location": "Army",
+    "nickname": "Black Knights",
+    "short_name": "Army",
+    "abbreviation": "ARMY",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "349.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
+    "url": "https://www.espn.com/college-football/team/_/id/349"
+  },
+  {
+    "id": "2",
+    "name": "Auburn Tigers",
+    "location": "Auburn",
+    "nickname": "Tigers",
+    "short_name": "Auburn",
+    "abbreviation": "AUB",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "2.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2"
+  },
+  {
+    "id": "252",
+    "name": "BYU Cougars",
+    "location": "BYU",
+    "nickname": "Cougars",
+    "short_name": "BYU",
+    "abbreviation": "BYU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "252.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "url": "https://www.espn.com/college-football/team/_/id/252"
+  },
+  {
+    "id": "2050",
+    "name": "Ball State Cardinals",
+    "location": "Ball State",
+    "nickname": "Cardinals",
+    "short_name": "Ball State",
+    "abbreviation": "BALL",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2050.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2050"
+  },
+  {
+    "id": "239",
+    "name": "Baylor Bears",
+    "location": "Baylor",
+    "nickname": "Bears",
+    "short_name": "Baylor",
+    "abbreviation": "BAY",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "239.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "url": "https://www.espn.com/college-football/team/_/id/239"
+  },
+  {
+    "id": "68",
+    "name": "Boise State Broncos",
+    "location": "Boise State",
+    "nickname": "Broncos",
+    "short_name": "Boise St",
+    "abbreviation": "BOIS",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "68.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
+    "url": "https://www.espn.com/college-football/team/_/id/68"
+  },
+  {
+    "id": "103",
+    "name": "Boston College Eagles",
+    "location": "Boston College",
+    "nickname": "Eagles",
+    "short_name": "Boston College",
+    "abbreviation": "BC",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "103.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "url": "https://www.espn.com/college-football/team/_/id/103"
+  },
+  {
+    "id": "189",
+    "name": "Bowling Green Falcons",
+    "location": "Bowling Green",
+    "nickname": "Falcons",
+    "short_name": "Bowling Green",
+    "abbreviation": "BGSU",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "189.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+    "url": "https://www.espn.com/college-football/team/_/id/189"
+  },
+  {
+    "id": "2084",
+    "name": "Buffalo Bulls",
+    "location": "Buffalo",
+    "nickname": "Bulls",
+    "short_name": "Buffalo",
+    "abbreviation": "BUFF",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2084.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2084"
+  },
+  {
+    "id": "25",
+    "name": "California Golden Bears",
+    "location": "California",
+    "nickname": "Golden Bears",
+    "short_name": "California",
+    "abbreviation": "CAL",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "25.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "url": "https://www.espn.com/college-football/team/_/id/25"
+  },
+  {
+    "id": "2117",
+    "name": "Central Michigan Chippewas",
+    "location": "Central Michigan",
+    "nickname": "Chippewas",
+    "short_name": "C Michigan",
+    "abbreviation": "CMU",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2117.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2117"
+  },
+  {
+    "id": "2429",
+    "name": "Charlotte 49ers",
+    "location": "Charlotte",
+    "nickname": "49ers",
+    "short_name": "Charlotte",
+    "abbreviation": "CLT",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "2429.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2429"
+  },
+  {
+    "id": "2132",
+    "name": "Cincinnati Bearcats",
+    "location": "Cincinnati",
+    "nickname": "Bearcats",
+    "short_name": "Cincinnati",
+    "abbreviation": "CIN",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2132.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2132"
+  },
+  {
+    "id": "228",
+    "name": "Clemson Tigers",
+    "location": "Clemson",
+    "nickname": "Tigers",
+    "short_name": "Clemson",
+    "abbreviation": "CLEM",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "228.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "url": "https://www.espn.com/college-football/team/_/id/228"
+  },
+  {
+    "id": "324",
+    "name": "Coastal Carolina Chanticleers",
+    "location": "Coastal Carolina",
+    "nickname": "Chanticleers",
+    "short_name": "Coastal",
+    "abbreviation": "CCU",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "324.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
+    "url": "https://www.espn.com/college-football/team/_/id/324"
+  },
+  {
+    "id": "38",
+    "name": "Colorado Buffaloes",
+    "location": "Colorado",
+    "nickname": "Buffaloes",
+    "short_name": "Colorado",
+    "abbreviation": "COLO",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "38.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "url": "https://www.espn.com/college-football/team/_/id/38"
+  },
+  {
+    "id": "36",
+    "name": "Colorado State Rams",
+    "location": "Colorado State",
+    "nickname": "Rams",
+    "short_name": "Colorado St",
+    "abbreviation": "CSU",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "36.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "url": "https://www.espn.com/college-football/team/_/id/36"
+  },
+  {
+    "id": "48",
+    "name": "Delaware Blue Hens",
+    "location": "Delaware",
+    "nickname": "Blue Hens",
+    "short_name": "Delaware",
+    "abbreviation": "DEL",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "48.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/48.png",
+    "url": "https://www.espn.com/college-football/team/_/id/48"
+  },
+  {
+    "id": "150",
+    "name": "Duke Blue Devils",
+    "location": "Duke",
+    "nickname": "Blue Devils",
+    "short_name": "Duke",
+    "abbreviation": "DUKE",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "150.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "url": "https://www.espn.com/college-football/team/_/id/150"
+  },
+  {
+    "id": "151",
+    "name": "East Carolina Pirates",
+    "location": "East Carolina",
+    "nickname": "Pirates",
+    "short_name": "East Carolina",
+    "abbreviation": "ECU",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "151.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
+    "url": "https://www.espn.com/college-football/team/_/id/151"
+  },
+  {
+    "id": "2199",
+    "name": "Eastern Michigan Eagles",
+    "location": "Eastern Michigan",
+    "nickname": "Eagles",
+    "short_name": "E Michigan",
+    "abbreviation": "EMU",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2199.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2199"
+  },
+  {
+    "id": "2226",
+    "name": "Florida Atlantic Owls",
+    "location": "Florida Atlantic",
+    "nickname": "Owls",
+    "short_name": "FAU",
+    "abbreviation": "FAU",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "2226.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2226"
+  },
+  {
+    "id": "57",
+    "name": "Florida Gators",
+    "location": "Florida",
+    "nickname": "Gators",
+    "short_name": "Florida",
+    "abbreviation": "FLA",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "57.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "url": "https://www.espn.com/college-football/team/_/id/57"
+  },
+  {
+    "id": "2229",
+    "name": "Florida International Panthers",
+    "location": "Florida International",
+    "nickname": "Panthers",
+    "short_name": "FIU",
+    "abbreviation": "FIU",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "2229.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2229"
+  },
+  {
+    "id": "52",
+    "name": "Florida State Seminoles",
+    "location": "Florida State",
+    "nickname": "Seminoles",
+    "short_name": "Florida St",
+    "abbreviation": "FSU",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "52.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "url": "https://www.espn.com/college-football/team/_/id/52"
+  },
+  {
+    "id": "278",
+    "name": "Fresno State Bulldogs",
+    "location": "Fresno State",
+    "nickname": "Bulldogs",
+    "short_name": "Fresno St",
+    "abbreviation": "FRES",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "278.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "url": "https://www.espn.com/college-football/team/_/id/278"
+  },
+  {
+    "id": "61",
+    "name": "Georgia Bulldogs",
+    "location": "Georgia",
+    "nickname": "Bulldogs",
+    "short_name": "Georgia",
+    "abbreviation": "UGA",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "61.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+    "url": "https://www.espn.com/college-football/team/_/id/61"
+  },
+  {
+    "id": "290",
+    "name": "Georgia Southern Eagles",
+    "location": "Georgia Southern",
+    "nickname": "Eagles",
+    "short_name": "GA Southern",
+    "abbreviation": "GASO",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "290.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+    "url": "https://www.espn.com/college-football/team/_/id/290"
+  },
+  {
+    "id": "2247",
+    "name": "Georgia State Panthers",
+    "location": "Georgia State",
+    "nickname": "Panthers",
+    "short_name": "Georgia St",
+    "abbreviation": "GAST",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "2247.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2247"
+  },
+  {
+    "id": "59",
+    "name": "Georgia Tech Yellow Jackets",
+    "location": "Georgia Tech",
+    "nickname": "Yellow Jackets",
+    "short_name": "Georgia Tech",
+    "abbreviation": "GT",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "59.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "url": "https://www.espn.com/college-football/team/_/id/59"
+  },
+  {
+    "id": "62",
+    "name": "Hawai'i Rainbow Warriors",
+    "location": "Hawai'i",
+    "nickname": "Rainbow Warriors",
+    "short_name": "Hawai'i",
+    "abbreviation": "HAW",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "62.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "url": "https://www.espn.com/college-football/team/_/id/62"
+  },
+  {
+    "id": "248",
+    "name": "Houston Cougars",
+    "location": "Houston",
+    "nickname": "Cougars",
+    "short_name": "Houston",
+    "abbreviation": "HOU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "248.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "url": "https://www.espn.com/college-football/team/_/id/248"
+  },
+  {
+    "id": "356",
+    "name": "Illinois Fighting Illini",
+    "location": "Illinois",
+    "nickname": "Fighting Illini",
+    "short_name": "Illinois",
+    "abbreviation": "ILL",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "356.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "url": "https://www.espn.com/college-football/team/_/id/356"
+  },
+  {
+    "id": "84",
+    "name": "Indiana Hoosiers",
+    "location": "Indiana",
+    "nickname": "Hoosiers",
+    "short_name": "Indiana",
+    "abbreviation": "IU",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "84.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "url": "https://www.espn.com/college-football/team/_/id/84"
+  },
+  {
+    "id": "2294",
+    "name": "Iowa Hawkeyes",
+    "location": "Iowa",
+    "nickname": "Hawkeyes",
+    "short_name": "Iowa",
+    "abbreviation": "IOWA",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "2294.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2294"
+  },
+  {
+    "id": "66",
+    "name": "Iowa State Cyclones",
+    "location": "Iowa State",
+    "nickname": "Cyclones",
+    "short_name": "Iowa State",
+    "abbreviation": "ISU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "66.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "url": "https://www.espn.com/college-football/team/_/id/66"
+  },
+  {
+    "id": "55",
+    "name": "Jacksonville State Gamecocks",
+    "location": "Jacksonville State",
+    "nickname": "Gamecocks",
+    "short_name": "Jax State",
+    "abbreviation": "JXST",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "55.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
+    "url": "https://www.espn.com/college-football/team/_/id/55"
+  },
+  {
+    "id": "256",
+    "name": "James Madison Dukes",
+    "location": "James Madison",
+    "nickname": "Dukes",
+    "short_name": "James Madison",
+    "abbreviation": "JMU",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "256.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
+    "url": "https://www.espn.com/college-football/team/_/id/256"
+  },
+  {
+    "id": "2305",
+    "name": "Kansas Jayhawks",
+    "location": "Kansas",
+    "nickname": "Jayhawks",
+    "short_name": "Kansas",
+    "abbreviation": "KU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2305.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2305"
+  },
+  {
+    "id": "2306",
+    "name": "Kansas State Wildcats",
+    "location": "Kansas State",
+    "nickname": "Wildcats",
+    "short_name": "Kansas St",
+    "abbreviation": "KSU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2306.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2306"
+  },
+  {
+    "id": "338",
+    "name": "Kennesaw State Owls",
+    "location": "Kennesaw State",
+    "nickname": "Owls",
+    "short_name": "Kennesaw St",
+    "abbreviation": "KENN",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "338.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
+    "url": "https://www.espn.com/college-football/team/_/id/338"
+  },
+  {
+    "id": "2309",
+    "name": "Kent State Golden Flashes",
+    "location": "Kent State",
+    "nickname": "Golden Flashes",
+    "short_name": "Kent State",
+    "abbreviation": "KENT",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2309.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2309"
+  },
+  {
+    "id": "96",
+    "name": "Kentucky Wildcats",
+    "location": "Kentucky",
+    "nickname": "Wildcats",
+    "short_name": "Kentucky",
+    "abbreviation": "UK",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "96.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "url": "https://www.espn.com/college-football/team/_/id/96"
+  },
+  {
+    "id": "99",
+    "name": "LSU Tigers",
+    "location": "LSU",
+    "nickname": "Tigers",
+    "short_name": "LSU",
+    "abbreviation": "LSU",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "99.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "url": "https://www.espn.com/college-football/team/_/id/99"
+  },
+  {
+    "id": "2335",
+    "name": "Liberty Flames",
+    "location": "Liberty",
+    "nickname": "Flames",
+    "short_name": "Liberty",
+    "abbreviation": "LIB",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "2335.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2335"
+  },
+  {
+    "id": "309",
+    "name": "Louisiana Ragin' Cajuns",
+    "location": "Louisiana",
+    "nickname": "Ragin' Cajuns",
+    "short_name": "Louisiana",
+    "abbreviation": "UL",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "309.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+    "url": "https://www.espn.com/college-football/team/_/id/309"
+  },
+  {
+    "id": "2348",
+    "name": "Louisiana Tech Bulldogs",
+    "location": "Louisiana Tech",
+    "nickname": "Bulldogs",
+    "short_name": "Louisiana Tech",
+    "abbreviation": "LT",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "2348.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2348"
+  },
+  {
+    "id": "97",
+    "name": "Louisville Cardinals",
+    "location": "Louisville",
+    "nickname": "Cardinals",
+    "short_name": "Louisville",
+    "abbreviation": "LOU",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "97.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+    "url": "https://www.espn.com/college-football/team/_/id/97"
+  },
+  {
+    "id": "276",
+    "name": "Marshall Thundering Herd",
+    "location": "Marshall",
+    "nickname": "Thundering Herd",
+    "short_name": "Marshall",
+    "abbreviation": "MRSH",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "276.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "url": "https://www.espn.com/college-football/team/_/id/276"
+  },
+  {
+    "id": "120",
+    "name": "Maryland Terrapins",
+    "location": "Maryland",
+    "nickname": "Terrapins",
+    "short_name": "Maryland",
+    "abbreviation": "MD",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "120.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "url": "https://www.espn.com/college-football/team/_/id/120"
+  },
+  {
+    "id": "113",
+    "name": "Massachusetts Minutemen",
+    "location": "Massachusetts",
+    "nickname": "Minutemen",
+    "short_name": "UMass",
+    "abbreviation": "MASS",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "113.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "url": "https://www.espn.com/college-football/team/_/id/113"
+  },
+  {
+    "id": "235",
+    "name": "Memphis Tigers",
+    "location": "Memphis",
+    "nickname": "Tigers",
+    "short_name": "Memphis",
+    "abbreviation": "MEM",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "235.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "url": "https://www.espn.com/college-football/team/_/id/235"
+  },
+  {
+    "id": "193",
+    "name": "Miami (OH) RedHawks",
+    "location": "Miami (OH)",
+    "nickname": "RedHawks",
+    "short_name": "Miami OH",
+    "abbreviation": "M-OH",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "193.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+    "url": "https://www.espn.com/college-football/team/_/id/193"
+  },
+  {
+    "id": "2390",
+    "name": "Miami Hurricanes",
+    "location": "Miami",
+    "nickname": "Hurricanes",
+    "short_name": "Miami",
+    "abbreviation": "MIA",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "2390.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2390"
+  },
+  {
+    "id": "127",
+    "name": "Michigan State Spartans",
+    "location": "Michigan State",
+    "nickname": "Spartans",
+    "short_name": "Michigan St",
+    "abbreviation": "MSU",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "127.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "url": "https://www.espn.com/college-football/team/_/id/127"
+  },
+  {
+    "id": "130",
+    "name": "Michigan Wolverines",
+    "location": "Michigan",
+    "nickname": "Wolverines",
+    "short_name": "Michigan",
+    "abbreviation": "MICH",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "130.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "url": "https://www.espn.com/college-football/team/_/id/130"
+  },
+  {
+    "id": "2393",
+    "name": "Middle Tennessee Blue Raiders",
+    "location": "Middle Tennessee",
+    "nickname": "Blue Raiders",
+    "short_name": "MTSU",
+    "abbreviation": "MTSU",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "2393.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2393"
+  },
+  {
+    "id": "135",
+    "name": "Minnesota Golden Gophers",
+    "location": "Minnesota",
+    "nickname": "Golden Gophers",
+    "short_name": "Minnesota",
+    "abbreviation": "MINN",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "135.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+    "url": "https://www.espn.com/college-football/team/_/id/135"
+  },
+  {
+    "id": "344",
+    "name": "Mississippi State Bulldogs",
+    "location": "Mississippi State",
+    "nickname": "Bulldogs",
+    "short_name": "Mississippi St",
+    "abbreviation": "MSST",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "344.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+    "url": "https://www.espn.com/college-football/team/_/id/344"
+  },
+  {
+    "id": "2623",
+    "name": "Missouri State Bears",
+    "location": "Missouri State",
+    "nickname": "Bears",
+    "short_name": "Missouri St",
+    "abbreviation": "MOST",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "2623.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2623"
+  },
+  {
+    "id": "142",
+    "name": "Missouri Tigers",
+    "location": "Missouri",
+    "nickname": "Tigers",
+    "short_name": "Missouri",
+    "abbreviation": "MIZ",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "142.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "url": "https://www.espn.com/college-football/team/_/id/142"
+  },
+  {
+    "id": "152",
+    "name": "NC State Wolfpack",
+    "location": "NC State",
+    "nickname": "Wolfpack",
+    "short_name": "NC State",
+    "abbreviation": "NCSU",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "152.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+    "url": "https://www.espn.com/college-football/team/_/id/152"
+  },
+  {
+    "id": "2426",
+    "name": "Navy Midshipmen",
+    "location": "Navy",
+    "nickname": "Midshipmen",
+    "short_name": "Navy",
+    "abbreviation": "NAVY",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "2426.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2426"
+  },
+  {
+    "id": "158",
+    "name": "Nebraska Cornhuskers",
+    "location": "Nebraska",
+    "nickname": "Cornhuskers",
+    "short_name": "Nebraska",
+    "abbreviation": "NEB",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "158.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+    "url": "https://www.espn.com/college-football/team/_/id/158"
+  },
+  {
+    "id": "2440",
+    "name": "Nevada Wolf Pack",
+    "location": "Nevada",
+    "nickname": "Wolf Pack",
+    "short_name": "Nevada",
+    "abbreviation": "NEV",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2440.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2440"
+  },
+  {
+    "id": "167",
+    "name": "New Mexico Lobos",
+    "location": "New Mexico",
+    "nickname": "Lobos",
+    "short_name": "New Mexico",
+    "abbreviation": "UNM",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "167.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+    "url": "https://www.espn.com/college-football/team/_/id/167"
+  },
+  {
+    "id": "166",
+    "name": "New Mexico State Aggies",
+    "location": "New Mexico State",
+    "nickname": "Aggies",
+    "short_name": "New Mexico St",
+    "abbreviation": "NMSU",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "166.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
+    "url": "https://www.espn.com/college-football/team/_/id/166"
+  },
+  {
+    "id": "153",
+    "name": "North Carolina Tar Heels",
+    "location": "North Carolina",
+    "nickname": "Tar Heels",
+    "short_name": "North Carolina",
+    "abbreviation": "UNC",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "153.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "url": "https://www.espn.com/college-football/team/_/id/153"
+  },
+  {
+    "id": "2449",
+    "name": "North Dakota State Bison",
+    "location": "North Dakota State",
+    "nickname": "Bison",
+    "short_name": "N Dakota St",
+    "abbreviation": "NDSU",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2449.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2449"
+  },
+  {
+    "id": "249",
+    "name": "North Texas Mean Green",
+    "location": "North Texas",
+    "nickname": "Mean Green",
+    "short_name": "North Texas",
+    "abbreviation": "UNT",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "249.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+    "url": "https://www.espn.com/college-football/team/_/id/249"
+  },
+  {
+    "id": "2459",
+    "name": "Northern Illinois Huskies",
+    "location": "Northern Illinois",
+    "nickname": "Huskies",
+    "short_name": "N Illinois",
+    "abbreviation": "NIU",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2459.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2459"
+  },
+  {
+    "id": "77",
+    "name": "Northwestern Wildcats",
+    "location": "Northwestern",
+    "nickname": "Wildcats",
+    "short_name": "Northwestern",
+    "abbreviation": "NU",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "77.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+    "url": "https://www.espn.com/college-football/team/_/id/77"
+  },
+  {
+    "id": "87",
+    "name": "Notre Dame Fighting Irish",
+    "location": "Notre Dame",
+    "nickname": "Fighting Irish",
+    "short_name": "Notre Dame",
+    "abbreviation": "ND",
+    "conference_id": "18",
+    "conference": "FBS Independents",
+    "conference_short": "FBS Indep.",
+    "conference_aliases": [
+      "ind",
+      "independent",
+      "independents"
+    ],
+    "division": "FBS Indep.",
+    "logo": "87.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "url": "https://www.espn.com/college-football/team/_/id/87"
+  },
+  {
+    "id": "195",
+    "name": "Ohio Bobcats",
+    "location": "Ohio",
+    "nickname": "Bobcats",
+    "short_name": "Ohio",
+    "abbreviation": "OHIO",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "195.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
+    "url": "https://www.espn.com/college-football/team/_/id/195"
+  },
+  {
+    "id": "194",
+    "name": "Ohio State Buckeyes",
+    "location": "Ohio State",
+    "nickname": "Buckeyes",
+    "short_name": "Ohio State",
+    "abbreviation": "OSU",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "194.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "url": "https://www.espn.com/college-football/team/_/id/194"
+  },
+  {
+    "id": "201",
+    "name": "Oklahoma Sooners",
+    "location": "Oklahoma",
+    "nickname": "Sooners",
+    "short_name": "Oklahoma",
+    "abbreviation": "OU",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "201.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "url": "https://www.espn.com/college-football/team/_/id/201"
+  },
+  {
+    "id": "197",
+    "name": "Oklahoma State Cowboys",
+    "location": "Oklahoma State",
+    "nickname": "Cowboys",
+    "short_name": "Oklahoma St",
+    "abbreviation": "OKST",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "197.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "url": "https://www.espn.com/college-football/team/_/id/197"
+  },
+  {
+    "id": "295",
+    "name": "Old Dominion Monarchs",
+    "location": "Old Dominion",
+    "nickname": "Monarchs",
+    "short_name": "Old Dominion",
+    "abbreviation": "ODU",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - East",
+    "logo": "295.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
+    "url": "https://www.espn.com/college-football/team/_/id/295"
+  },
+  {
+    "id": "145",
+    "name": "Ole Miss Rebels",
+    "location": "Ole Miss",
+    "nickname": "Rebels",
+    "short_name": "Ole Miss",
+    "abbreviation": "MISS",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "145.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+    "url": "https://www.espn.com/college-football/team/_/id/145"
+  },
+  {
+    "id": "2483",
+    "name": "Oregon Ducks",
+    "location": "Oregon",
+    "nickname": "Ducks",
+    "short_name": "Oregon",
+    "abbreviation": "ORE",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "2483.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2483"
+  },
+  {
+    "id": "204",
+    "name": "Oregon State Beavers",
+    "location": "Oregon State",
+    "nickname": "Beavers",
+    "short_name": "Oregon St",
+    "abbreviation": "ORST",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "204.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "url": "https://www.espn.com/college-football/team/_/id/204"
+  },
+  {
+    "id": "213",
+    "name": "Penn State Nittany Lions",
+    "location": "Penn State",
+    "nickname": "Nittany Lions",
+    "short_name": "Penn State",
+    "abbreviation": "PSU",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "213.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "url": "https://www.espn.com/college-football/team/_/id/213"
+  },
+  {
+    "id": "221",
+    "name": "Pittsburgh Panthers",
+    "location": "Pittsburgh",
+    "nickname": "Panthers",
+    "short_name": "Pitt",
+    "abbreviation": "PITT",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "221.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "url": "https://www.espn.com/college-football/team/_/id/221"
+  },
+  {
+    "id": "2509",
+    "name": "Purdue Boilermakers",
+    "location": "Purdue",
+    "nickname": "Boilermakers",
+    "short_name": "Purdue",
+    "abbreviation": "PUR",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "2509.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2509"
+  },
+  {
+    "id": "242",
+    "name": "Rice Owls",
+    "location": "Rice",
+    "nickname": "Owls",
+    "short_name": "Rice",
+    "abbreviation": "RICE",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "242.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
+    "url": "https://www.espn.com/college-football/team/_/id/242"
+  },
+  {
+    "id": "164",
+    "name": "Rutgers Scarlet Knights",
+    "location": "Rutgers",
+    "nickname": "Scarlet Knights",
+    "short_name": "Rutgers",
+    "abbreviation": "RUTG",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "164.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+    "url": "https://www.espn.com/college-football/team/_/id/164"
+  },
+  {
+    "id": "2567",
+    "name": "SMU Mustangs",
+    "location": "SMU",
+    "nickname": "Mustangs",
+    "short_name": "SMU",
+    "abbreviation": "SMU",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "2567.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2567"
+  },
+  {
+    "id": "16",
+    "name": "Sacramento State Hornets",
+    "location": "Sacramento State",
+    "nickname": "Hornets",
+    "short_name": "Sacramento St",
+    "abbreviation": "SAC",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "16.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "url": "https://www.espn.com/college-football/team/_/id/16"
+  },
+  {
+    "id": "2534",
+    "name": "Sam Houston Bearkats",
+    "location": "Sam Houston",
+    "nickname": "Bearkats",
+    "short_name": "Sam Houston",
+    "abbreviation": "SHSU",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "2534.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2534"
+  },
+  {
+    "id": "21",
+    "name": "San Diego State Aztecs",
+    "location": "San Diego State",
+    "nickname": "Aztecs",
+    "short_name": "San Diego St",
+    "abbreviation": "SDSU",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "21.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "url": "https://www.espn.com/college-football/team/_/id/21"
+  },
+  {
+    "id": "23",
+    "name": "San Jos\u00e9 State Spartans",
+    "location": "San Jos\u00e9 State",
+    "nickname": "Spartans",
+    "short_name": "San Jos\u00e9 St",
+    "abbreviation": "SJSU",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "23.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "url": "https://www.espn.com/college-football/team/_/id/23"
+  },
+  {
+    "id": "6",
+    "name": "South Alabama Jaguars",
+    "location": "South Alabama",
+    "nickname": "Jaguars",
+    "short_name": "South Alabama",
+    "abbreviation": "USA",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "6.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
+    "url": "https://www.espn.com/college-football/team/_/id/6"
+  },
+  {
+    "id": "2579",
+    "name": "South Carolina Gamecocks",
+    "location": "South Carolina",
+    "nickname": "Gamecocks",
+    "short_name": "South Carolina",
+    "abbreviation": "SC",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "2579.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2579"
+  },
+  {
+    "id": "58",
+    "name": "South Florida Bulls",
+    "location": "South Florida",
+    "nickname": "Bulls",
+    "short_name": "South Florida",
+    "abbreviation": "USF",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "58.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
+    "url": "https://www.espn.com/college-football/team/_/id/58"
+  },
+  {
+    "id": "2572",
+    "name": "Southern Miss Golden Eagles",
+    "location": "Southern Miss",
+    "nickname": "Golden Eagles",
+    "short_name": "Southern Miss",
+    "abbreviation": "USM",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "2572.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2572"
+  },
+  {
+    "id": "24",
+    "name": "Stanford Cardinal",
+    "location": "Stanford",
+    "nickname": "Cardinal",
+    "short_name": "Stanford",
+    "abbreviation": "STAN",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "24.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "url": "https://www.espn.com/college-football/team/_/id/24"
+  },
+  {
+    "id": "183",
+    "name": "Syracuse Orange",
+    "location": "Syracuse",
+    "nickname": "Orange",
+    "short_name": "Syracuse",
+    "abbreviation": "SYR",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "183.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "url": "https://www.espn.com/college-football/team/_/id/183"
+  },
+  {
+    "id": "2628",
+    "name": "TCU Horned Frogs",
+    "location": "TCU",
+    "nickname": "Horned Frogs",
+    "short_name": "TCU",
+    "abbreviation": "TCU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2628.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2628"
+  },
+  {
+    "id": "218",
+    "name": "Temple Owls",
+    "location": "Temple",
+    "nickname": "Owls",
+    "short_name": "Temple",
+    "abbreviation": "TEM",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "218.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
+    "url": "https://www.espn.com/college-football/team/_/id/218"
+  },
+  {
+    "id": "2633",
+    "name": "Tennessee Volunteers",
+    "location": "Tennessee",
+    "nickname": "Volunteers",
+    "short_name": "Tennessee",
+    "abbreviation": "TENN",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "2633.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2633"
+  },
+  {
+    "id": "245",
+    "name": "Texas A&M Aggies",
+    "location": "Texas A&M",
+    "nickname": "Aggies",
+    "short_name": "Texas A&M",
+    "abbreviation": "TA&M",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "245.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "url": "https://www.espn.com/college-football/team/_/id/245"
+  },
+  {
+    "id": "251",
+    "name": "Texas Longhorns",
+    "location": "Texas",
+    "nickname": "Longhorns",
+    "short_name": "Texas",
+    "abbreviation": "TEX",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "251.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "url": "https://www.espn.com/college-football/team/_/id/251"
+  },
+  {
+    "id": "326",
+    "name": "Texas State Bobcats",
+    "location": "Texas State",
+    "nickname": "Bobcats",
+    "short_name": "Texas St",
+    "abbreviation": "TXST",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "326.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+    "url": "https://www.espn.com/college-football/team/_/id/326"
+  },
+  {
+    "id": "2641",
+    "name": "Texas Tech Red Raiders",
+    "location": "Texas Tech",
+    "nickname": "Red Raiders",
+    "short_name": "Texas Tech",
+    "abbreviation": "TTU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2641.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2641"
+  },
+  {
+    "id": "2649",
+    "name": "Toledo Rockets",
+    "location": "Toledo",
+    "nickname": "Rockets",
+    "short_name": "Toledo",
+    "abbreviation": "TOL",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2649.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2649"
+  },
+  {
+    "id": "2653",
+    "name": "Troy Trojans",
+    "location": "Troy",
+    "nickname": "Trojans",
+    "short_name": "Troy",
+    "abbreviation": "TROY",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "2653.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2653"
+  },
+  {
+    "id": "2655",
+    "name": "Tulane Green Wave",
+    "location": "Tulane",
+    "nickname": "Green Wave",
+    "short_name": "Tulane",
+    "abbreviation": "TULN",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "2655.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2655"
+  },
+  {
+    "id": "202",
+    "name": "Tulsa Golden Hurricane",
+    "location": "Tulsa",
+    "nickname": "Golden Hurricane",
+    "short_name": "Tulsa",
+    "abbreviation": "TLSA",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "202.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+    "url": "https://www.espn.com/college-football/team/_/id/202"
+  },
+  {
+    "id": "5",
+    "name": "UAB Blazers",
+    "location": "UAB",
+    "nickname": "Blazers",
+    "short_name": "UAB",
+    "abbreviation": "UAB",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "5.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+    "url": "https://www.espn.com/college-football/team/_/id/5"
+  },
+  {
+    "id": "2116",
+    "name": "UCF Knights",
+    "location": "UCF",
+    "nickname": "Knights",
+    "short_name": "UCF",
+    "abbreviation": "UCF",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "2116.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2116"
+  },
+  {
+    "id": "26",
+    "name": "UCLA Bruins",
+    "location": "UCLA",
+    "nickname": "Bruins",
+    "short_name": "UCLA",
+    "abbreviation": "UCLA",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "26.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "url": "https://www.espn.com/college-football/team/_/id/26"
+  },
+  {
+    "id": "41",
+    "name": "UConn Huskies",
+    "location": "UConn",
+    "nickname": "Huskies",
+    "short_name": "UConn",
+    "abbreviation": "CONN",
+    "conference_id": "18",
+    "conference": "FBS Independents",
+    "conference_short": "FBS Indep.",
+    "conference_aliases": [
+      "ind",
+      "independent",
+      "independents"
+    ],
+    "division": "FBS Indep.",
+    "logo": "41.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "url": "https://www.espn.com/college-football/team/_/id/41"
+  },
+  {
+    "id": "2433",
+    "name": "UL Monroe Warhawks",
+    "location": "UL Monroe",
+    "nickname": "Warhawks",
+    "short_name": "UL Monroe",
+    "abbreviation": "ULM",
+    "conference_id": "37",
+    "conference": "Sun Belt Conference",
+    "conference_short": "Sun Belt",
+    "conference_aliases": [
+      "sbc",
+      "sun belt",
+      "sunbelt",
+      "belt"
+    ],
+    "division": "Sun Belt - West",
+    "logo": "2433.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2433"
+  },
+  {
+    "id": "2439",
+    "name": "UNLV Rebels",
+    "location": "UNLV",
+    "nickname": "Rebels",
+    "short_name": "UNLV",
+    "abbreviation": "UNLV",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2439.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2439"
+  },
+  {
+    "id": "30",
+    "name": "USC Trojans",
+    "location": "USC",
+    "nickname": "Trojans",
+    "short_name": "USC",
+    "abbreviation": "USC",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "30.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "url": "https://www.espn.com/college-football/team/_/id/30"
+  },
+  {
+    "id": "2638",
+    "name": "UTEP Miners",
+    "location": "UTEP",
+    "nickname": "Miners",
+    "short_name": "UTEP",
+    "abbreviation": "UTEP",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2638.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2638"
+  },
+  {
+    "id": "2636",
+    "name": "UTSA Roadrunners",
+    "location": "UTSA",
+    "nickname": "Roadrunners",
+    "short_name": "UTSA",
+    "abbreviation": "UTSA",
+    "conference_id": "151",
+    "conference": "American Conference",
+    "conference_short": "American",
+    "conference_aliases": [
+      "aac",
+      "american"
+    ],
+    "division": "American",
+    "logo": "2636.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2636"
+  },
+  {
+    "id": "328",
+    "name": "Utah State Aggies",
+    "location": "Utah State",
+    "nickname": "Aggies",
+    "short_name": "Utah State",
+    "abbreviation": "USU",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "328.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "url": "https://www.espn.com/college-football/team/_/id/328"
+  },
+  {
+    "id": "254",
+    "name": "Utah Utes",
+    "location": "Utah",
+    "nickname": "Utes",
+    "short_name": "Utah",
+    "abbreviation": "UTAH",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "254.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "url": "https://www.espn.com/college-football/team/_/id/254"
+  },
+  {
+    "id": "238",
+    "name": "Vanderbilt Commodores",
+    "location": "Vanderbilt",
+    "nickname": "Commodores",
+    "short_name": "Vanderbilt",
+    "abbreviation": "VAN",
+    "conference_id": "8",
+    "conference": "Southeastern Conference",
+    "conference_short": "SEC",
+    "conference_aliases": [
+      "sec",
+      "southeastern"
+    ],
+    "division": "SEC",
+    "logo": "238.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+    "url": "https://www.espn.com/college-football/team/_/id/238"
+  },
+  {
+    "id": "258",
+    "name": "Virginia Cavaliers",
+    "location": "Virginia",
+    "nickname": "Cavaliers",
+    "short_name": "Virginia",
+    "abbreviation": "UVA",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "258.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "url": "https://www.espn.com/college-football/team/_/id/258"
+  },
+  {
+    "id": "259",
+    "name": "Virginia Tech Hokies",
+    "location": "Virginia Tech",
+    "nickname": "Hokies",
+    "short_name": "Virginia Tech",
+    "abbreviation": "VT",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "259.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+    "url": "https://www.espn.com/college-football/team/_/id/259"
+  },
+  {
+    "id": "154",
+    "name": "Wake Forest Demon Deacons",
+    "location": "Wake Forest",
+    "nickname": "Demon Deacons",
+    "short_name": "Wake Forest",
+    "abbreviation": "WAKE",
+    "conference_id": "1",
+    "conference": "Atlantic Coast Conference",
+    "conference_short": "ACC",
+    "conference_aliases": [
+      "acc",
+      "atlantic coast"
+    ],
+    "division": "ACC",
+    "logo": "154.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    "url": "https://www.espn.com/college-football/team/_/id/154"
+  },
+  {
+    "id": "264",
+    "name": "Washington Huskies",
+    "location": "Washington",
+    "nickname": "Huskies",
+    "short_name": "Washington",
+    "abbreviation": "WASH",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "264.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "url": "https://www.espn.com/college-football/team/_/id/264"
+  },
+  {
+    "id": "265",
+    "name": "Washington State Cougars",
+    "location": "Washington State",
+    "nickname": "Cougars",
+    "short_name": "Washington St",
+    "abbreviation": "WSU",
+    "conference_id": "9",
+    "conference": "Pac-12 Conference",
+    "conference_short": "Pac-12",
+    "conference_aliases": [
+      "pac12",
+      "pac-12",
+      "pac 12",
+      "pac"
+    ],
+    "division": "Pac-12",
+    "logo": "265.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+    "url": "https://www.espn.com/college-football/team/_/id/265"
+  },
+  {
+    "id": "277",
+    "name": "West Virginia Mountaineers",
+    "location": "West Virginia",
+    "nickname": "Mountaineers",
+    "short_name": "West Virginia",
+    "abbreviation": "WVU",
+    "conference_id": "4",
+    "conference": "Big 12 Conference",
+    "conference_short": "Big 12",
+    "conference_aliases": [
+      "b12",
+      "big12",
+      "big 12"
+    ],
+    "division": "Big 12",
+    "logo": "277.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+    "url": "https://www.espn.com/college-football/team/_/id/277"
+  },
+  {
+    "id": "98",
+    "name": "Western Kentucky Hilltoppers",
+    "location": "Western Kentucky",
+    "nickname": "Hilltoppers",
+    "short_name": "Western KY",
+    "abbreviation": "WKU",
+    "conference_id": "12",
+    "conference": "Conference USA",
+    "conference_short": "C-USA",
+    "conference_aliases": [
+      "cusa",
+      "c-usa",
+      "conference usa",
+      "usa"
+    ],
+    "division": "C-USA",
+    "logo": "98.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "url": "https://www.espn.com/college-football/team/_/id/98"
+  },
+  {
+    "id": "2711",
+    "name": "Western Michigan Broncos",
+    "location": "Western Michigan",
+    "nickname": "Broncos",
+    "short_name": "W Michigan",
+    "abbreviation": "WMU",
+    "conference_id": "15",
+    "conference": "Mid-American Conference",
+    "conference_short": "MAC",
+    "conference_aliases": [
+      "mac",
+      "mid-american",
+      "midam"
+    ],
+    "division": "MAC",
+    "logo": "2711.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2711"
+  },
+  {
+    "id": "275",
+    "name": "Wisconsin Badgers",
+    "location": "Wisconsin",
+    "nickname": "Badgers",
+    "short_name": "Wisconsin",
+    "abbreviation": "WIS",
+    "conference_id": "5",
+    "conference": "Big Ten Conference",
+    "conference_short": "Big Ten",
+    "conference_aliases": [
+      "b10",
+      "big10",
+      "big ten",
+      "b1g"
+    ],
+    "division": "Big Ten",
+    "logo": "275.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "url": "https://www.espn.com/college-football/team/_/id/275"
+  },
+  {
+    "id": "2751",
+    "name": "Wyoming Cowboys",
+    "location": "Wyoming",
+    "nickname": "Cowboys",
+    "short_name": "Wyoming",
+    "abbreviation": "WYO",
+    "conference_id": "17",
+    "conference": "Mountain West Conference",
+    "conference_short": "Mountain West",
+    "conference_aliases": [
+      "mw",
+      "mwc",
+      "mwest",
+      "mountain west"
+    ],
+    "division": "Mountain West",
+    "logo": "2751.png",
+    "logo_url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "url": "https://www.espn.com/college-football/team/_/id/2751"
+  }
+]
